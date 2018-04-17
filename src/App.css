@@ -1,0 +1,37 @@
+@font-face {
+  font-family: "BentonSansCompBlackRegular";
+  src: url("./fonts/BentonSansCompBlackRegular.otf") format("truetype");
+}
+.slider-slide {
+  text-align: center;
+  width: 0% !important;
+}
+
+.overlay {
+  background-image: linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0),
+    rgba(0, 0, 0, 0.8)
+  );
+}
+
+.title {
+  font-family: "BentonSansCompBlackRegular";
+  font-size: 80px;
+  color: #fff !important;
+  text-align: center;
+}
+
+.subtitle {
+  color: #fff !important;
+  text-align: center;
+  font-size: 16px;
+}
+
+.slider-frame {
+  position: initial !important;
+}
+
+.body {
+  font-family: "BentonSansCompBlackRegular" !important;
+}
