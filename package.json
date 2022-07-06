@@ -5,7 +5,7 @@
 	"dependencies": {
 		"material-ui": "next",
 		"material-ui-icons": "^1.0.0-beta.36",
-		"moment": "^2.21.0",
+		"moment": "^2.29.4",
 		"nuka-carousel": "^4.0.2",
 		"prop-types": "^15.6.1",
 		"react": "^16.2.0",
