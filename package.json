@@ -6,7 +6,7 @@
 		"material-ui": "next",
 		"material-ui-icons": "^1.0.0-beta.36",
 		"moment": "^2.21.0",
-		"nuka-carousel": "^4.0.2",
+		"nuka-carousel": "^4.8.4",
 		"prop-types": "^15.6.1",
 		"react": "^16.2.0",
 		"react-dom": "^16.2.0",
