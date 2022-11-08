@@ -15,7 +15,7 @@
 		"react-responsive-carousel": "^3.1.35",
 		"react-router": "^4.2.0",
 		"react-router-dom": "^4.2.2",
-		"react-scripts": "1.1.1",
+		"react-scripts": "5.0.1",
 		"react-spinkit": "^3.0.0",
 		"recompose": "^0.26.0",
 		"redux": "^3.7.2",
